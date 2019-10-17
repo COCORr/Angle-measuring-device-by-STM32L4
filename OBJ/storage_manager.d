@@ -1,0 +1,14 @@
+..\obj\storage_manager.o: ..\MPL\storage_manager.c
+..\obj\storage_manager.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+..\obj\storage_manager.o: ..\MPL\storage_manager.h
+..\obj\storage_manager.o: ..\MPL\mltypes.h
+..\obj\storage_manager.o: ..\MPL\stdint_invensense.h
+..\obj\storage_manager.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\storage_manager.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\errno.h
+..\obj\storage_manager.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\limits.h
+..\obj\storage_manager.o: ..\MPL\log.h
+..\obj\storage_manager.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+..\obj\storage_manager.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+..\obj\storage_manager.o: ..\MPL\ml_math_func.h
+..\obj\storage_manager.o: ..\MPL\mlmath.h
+..\obj\storage_manager.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h

@@ -1,0 +1,16 @@
+..\obj\mpl.o: ..\MPL\mpl.c
+..\obj\mpl.o: ..\MPL\storage_manager.h
+..\obj\mpl.o: ..\MPL\mltypes.h
+..\obj\mpl.o: ..\MPL\stdint_invensense.h
+..\obj\mpl.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\mpl.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+..\obj\mpl.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\errno.h
+..\obj\mpl.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\limits.h
+..\obj\mpl.o: ..\MPL\log.h
+..\obj\mpl.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+..\obj\mpl.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+..\obj\mpl.o: ..\MPL\mpl.h
+..\obj\mpl.o: ..\MPL\start_manager.h
+..\obj\mpl.o: ..\MPL\data_builder.h
+..\obj\mpl.o: ..\MPL\results_holder.h
+..\obj\mpl.o: ..\MPL\mlinclude.h

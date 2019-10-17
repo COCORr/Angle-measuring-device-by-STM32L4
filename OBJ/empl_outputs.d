@@ -1,0 +1,14 @@
+..\obj\empl_outputs.o: ..\MPL\eMPL_outputs.c
+..\obj\empl_outputs.o: ..\MPL\eMPL_outputs.h
+..\obj\empl_outputs.o: ..\MPL\mltypes.h
+..\obj\empl_outputs.o: ..\MPL\stdint_invensense.h
+..\obj\empl_outputs.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\empl_outputs.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+..\obj\empl_outputs.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\errno.h
+..\obj\empl_outputs.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\limits.h
+..\obj\empl_outputs.o: ..\MPL\ml_math_func.h
+..\obj\empl_outputs.o: ..\MPL\mlmath.h
+..\obj\empl_outputs.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+..\obj\empl_outputs.o: ..\MPL\start_manager.h
+..\obj\empl_outputs.o: ..\MPL\data_builder.h
+..\obj\empl_outputs.o: ..\MPL\results_holder.h

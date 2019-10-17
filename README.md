@@ -1,2 +1,3 @@
-# Angle-measuring-device-by-STM32L4
-Based by STM32L4, using Fatfs, ICM20608
+#  本装置为基于STM32L4芯片的角度测量装置
+##  基于了hal库，ICM20608六轴角速度传感器，Fatfs文件系统
+
